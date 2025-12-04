@@ -1,5 +1,5 @@
 # TC1031_Estructuras_Formativas
-Tareas corregidas:
+Tareas corregidas, solicito la revisión, por favor:
 - "Algoritmos de Búsqueda y Ordenamiento" (No la entregué inicialmente) 
 - "Árbol Heap":
   - Quité el manejo de errores que dio lugar a la salida de la retroalimentación
